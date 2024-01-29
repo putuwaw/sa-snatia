@@ -91,4 +91,4 @@ uri-template==1.2.0
 wcwidth==0.2.6
 webcolors==1.13
 webencodings==0.5.1
-websocket-client==1.5.2
+websocket-client==1.7.0
